@@ -1,0 +1,124 @@
+{
+  "carreras": [
+    {
+      "carrera_id": "1",
+      "nombre": "Carrera We Run México 2011",
+      "tipo_carrera": "10K",
+      "fecha": "2011-11-26",
+      "tiempo": "0:56:59",
+      "mejor_tiempo": false,
+      "altitud": "2250",
+      "lugar": "CDMX",
+      "pais": "México",
+      "foto": "img/carrera-01.jpg"
+    },
+    {
+      "carrera_id": "2",
+      "nombre": "Reto Bosques de las Lomas",
+      "tipo_carrera": "15k",
+      "fecha": "2012-05-13",
+      "tiempo": "1:20:21",
+      "mejor_tiempo": false,
+      "altitud": "2250",
+      "lugar": "EdoMex",
+      "pais": "México",
+      "foto": "img/carrera-02.jpg"
+    },
+    {
+      "carrera_id": "3",
+      "nombre": "Carrera Día del Padre 2012",
+      "tipo_carrera": "Medio Maratón",
+      "fecha": "2012-06-17",
+      "tiempo": "1:55:02",
+      "mejor_tiempo": false,
+      "altitud": "2250",
+      "lugar": "CDMX",
+      "pais": "México",
+      "foto": "img/carrera-03.jpg"
+    },
+    {
+      "carrera_id": "4",
+      "nombre": "Maratón de la Ciudad de México 2012",
+      "tipo_carrera": "Maratón",
+      "fecha": "2012-09-02",
+      "tiempo": "4:35:35",
+      "mejor_tiempo": false,
+      "altitud": "2250",
+      "lugar": "CDMX",
+      "pais": "México",
+      "foto": "img/carrera-04.jpg"
+    },
+    {
+      "carrera_id": "5",
+      "nombre": "Maratón Lala 2014",
+      "tipo_carrera": "Maratón",
+      "fecha": "2011-11-29",
+      "tiempo": "3:56:22",
+      "mejor_tiempo": false,
+      "altitud": "1120",
+      "lugar": "Torreón",
+      "pais": "México",
+      "foto": "img/carrera-05.jpg"
+    },
+    {
+      "carrera_id": "6",
+      "nombre": "Ultra Trail 50K Guadalajara 2014",
+      "tipo_carrera": "UltraMaratón 50k",
+      "fecha": "2014-03-02",
+      "tiempo": "8:23:01",
+      "mejor_tiempo": true,
+      "altitud": "1800",
+      "lugar": "Guadalajara",
+      "pais": "México",
+      "foto": "img/carrera-06.jpg"
+    },
+    {
+      "carrera_id": "7",
+      "nombre": "San Francisco Marathon 2015",
+      "tipo_carrera": "Maratón",
+      "fecha": "2015-07-26",
+      "tiempo": "3:33:38",
+      "mejor_tiempo": false,
+      "altitud": "20",
+      "lugar": "San Francisco",
+      "pais": "USA",
+      "foto": "img/carrera-07.jpg"
+    },
+    {
+      "carrera_id": "8",
+      "nombre": "Maratón Powerade Monterrey 2016",
+      "tipo_carrera": "Maratón",
+      "fecha": "2016-12-11",
+      "tiempo": "3:35:59",
+      "mejor_tiempo": false,
+      "altitud": "550",
+      "lugar": "Monterrey",
+      "pais": "México",
+      "foto": "img/carrera-08.jpg"
+    },
+    {
+      "carrera_id": "9",
+      "nombre": "Spartan Race UltraBeast Mexico 2017",
+      "tipo_carrera": "UltraMaratón 50k",
+      "fecha": "2017-12-03",
+      "tiempo": "10:00:32",
+      "mejor_tiempo": false,
+      "altitud": "2700",
+      "lugar": "Puebla",
+      "pais": "México",
+      "foto": "img/carrera-09.jpg"
+    },
+    {
+      "carrera_id": "10",
+      "nombre": "Bank of America Chicago Marathon 2018",
+      "tipo_carrera": "Maratón",
+      "fecha": "2018-10-07",
+      "tiempo": "3:27:13",
+      "mejor_tiempo": true,
+      "altitud": "180",
+      "lugar": "Chicago",
+      "pais": "USA",
+      "foto": "img/carrera-10.jpg"
+    }
+  ]
+}
