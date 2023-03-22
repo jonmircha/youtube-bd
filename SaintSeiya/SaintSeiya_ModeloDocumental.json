@@ -1,0 +1,48 @@
+{
+  "personajes": [
+    {
+      "personaje_id": "",
+      "nombre": "",
+      "armadura": ["armadura 1", "armadura 2"],
+      "signo": "",
+      "nacimiento": "",
+      "pais": "",
+      "entrenamiento": "",
+      "maestro": ["maestro 1", "maestro 2"],
+      "ejercito": ["ejercito 1", "ejercito 2"],
+      "rango": ["rango 1", "rango 2"],
+      "foto": ["foto 1", "foto 2", "foto 3"],
+      "canonico": "",
+      "tecnicas": ["técnica 1", "técnica 2", "técnica 3"],
+      "franquicias": ["franquicia 1", "franquicia 2", "franquicia 3"],
+      "medios": ["medio 1", "medio 2", "medio 3"]
+    }
+  ],
+  "armaduras": [
+    {
+      "armadura_id": "",
+      "armadura": "",
+      "armadura_tipo": "",
+      "versiones": [
+        {
+          "nombre": "versión 1",
+          "foto": ["foto versión 1", "foto versión 2"]
+        },
+        {
+          "nombre": "versión 2",
+          "foto": "foto versión 2"
+        },
+        {
+          "nombre": "versión 3",
+          "foto": "foto versión 3"
+        }
+      ],
+      "portadores": [
+        { "nombre": "portador 1", "foto": "foto portador 1" },
+        { "nombre": "portador 2", "foto": "foto portador 2" },
+        { "nombre": "portador 3", "foto": "foto portador 3" },
+        { "nombre": "portador 4", "foto": "foto portador 4" }
+      ]
+    }
+  ]
+}

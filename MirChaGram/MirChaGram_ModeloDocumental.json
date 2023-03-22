@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "user_id": "",
+      "user_date": "",
+      "user_name": "",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "bio": "",
+      "web": "",
+      "avatar": "",
+      "birthdate": "",
+      "genre": "",
+      "country": "",
+      "posts": [1, 2, 3],
+      "followers": ["@user1", "@user2", "@user3"],
+      "followings": ["@user1", "@user2", "@user3"]
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "",
+      "post_date": "",
+      "plot": "",
+      "photo": "",
+      "user": "",
+      "comments": [
+        {
+          "comment_id": "",
+          "comment_date": "",
+          "comment": "",
+          "user": ""
+        },
+        {
+          "comment_id": "",
+          "comment_date": "",
+          "comment": "",
+          "user": ""
+        },
+        {
+          "comment_id": "",
+          "comment_date": "",
+          "comment": "",
+          "user": ""
+        }
+      ],
+      "hearts": ["@user1", "@user2", "@user3"]
+    }
+  ]
+}

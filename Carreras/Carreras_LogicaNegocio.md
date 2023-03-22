@@ -28,18 +28,18 @@
 
 ## Relaciones
 
-1. Una **carrera** _pertenece_ a un **tipo de carrera** (_1 a 1_).
-1. Una **carrera** se _corre_ en un **país** (_1 a 1_).
+1. Una **carrera** _pertenece_ a un **tipo de carrera** (_1 a M_).
+1. Una **carrera** se _corre_ en un **país** (_1 a M_).
 
 ## Diagramas
 
 ### Modelo Entidad - Reación
 
-![Modelo Entidad - Reación](./CarrerasModeloE-R.png)
+![Modelo Entidad - Reación](./Carreras_ModeloE-R.png)
 
 ### Modelo Relacional de la BD
 
-![Modelo Relacional de la BD](./CarrerasModeloRelacionalBD.png)
+![Modelo Relacional de la BD](./Carreras_ModeloRelacionalBD.png)
 
 ## Reglas de Negocio
 
