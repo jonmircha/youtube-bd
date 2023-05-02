@@ -10,6 +10,6 @@ En este repositorio encontrarás los recursos de mis cursos de [Bases de Datos](
 
 ### Recursos Teóricos
 
-- [Mapa mental Bases de Datos](https://www.figma.com/file/Af7NoQC3xp7cu6unD7OqQl/Bases-de-Datos).
+- [Mapa Mental Bases de Datos](https://www.figma.com/file/Af7NoQC3xp7cu6unD7OqQl/Bases-de-Datos).
 - [Artículo sobre Bases de Datos](https://jonmircha.com/bd).
-- [Artículo sobre Bases de _SQL_](https://jonmircha.com/sql).
+- [Artículo sobre _SQL_](https://jonmircha.com/sql).
