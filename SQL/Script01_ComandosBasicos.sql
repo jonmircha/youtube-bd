@@ -7,10 +7,10 @@
   
 SQL, NO distingue entre MÁYUSCULAS y minúsculas pero:
 
-	- Comandos y palabras reservadas de SQL van en MÁYUSCULAS.
-	- Nombres de objetos y datos van en minúsculas con _snake_case_.
-	- Para strings usar comillas simples ( `''` ).
-	- Todas las sentencias terminan con punto y coma ( `;` ).
+  - Comandos y palabras reservadas de SQL van en MÁYUSCULAS.
+  - Nombres de objetos y datos van en minúsculas con _snake_case_.
+  - Para strings usar comillas simples ( `''` ).
+  - Todas las sentencias terminan con punto y coma ( `;` ).
 */
 
 SHOW DATABASES;
@@ -44,8 +44,8 @@ SHOW TABLES;
 DESCRIBE usuarios;
 
 CREATE TABLE usuarios(
-	nombre VARCHAR(50),
-	correo VARCHAR(50)
+  nombre VARCHAR(50),
+  correo VARCHAR(50)
 );
 
 ALTER TABLE usuarios ADD COLUMN cumpleaños VARCHAR(15);
@@ -59,12 +59,12 @@ ALTER TABLE usuarios DROP COLUMN nacimiento;
 DROP TABLE usuarios;
 
 CREATE TABLE usuarios(
-	usuario_id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-	nombre VARCHAR(30) NOT NULL,
-	apellidos VARCHAR(30) NOT NULL,
-	correo VARCHAR(50) UNIQUE,
-	direccion VARCHAR(100) DEFAULT "Sin dirección",
-	edad INT DEFAULT 0
+  usuario_id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  nombre VARCHAR(30) NOT NULL,
+  apellidos VARCHAR(30) NOT NULL,
+  correo VARCHAR(50) UNIQUE,
+  direccion VARCHAR(100) DEFAULT "Sin dirección",
+  edad INT DEFAULT 0
 );
 
 INSERT INTO usuarios VALUES (0,"Jon","MirCha","jonmircha@gmail.com","dirección de mircha", 38);
@@ -74,9 +74,9 @@ INSERT INTO usuarios (apellidos, edad, nombre) VALUES ("MirCha", 10, "kEnAi");
 INSERT INTO usuarios SET nombre = "Irma", apellidos = "Campos", edad = 38;
 
 INSERT INTO usuarios (nombre, apellidos, correo, edad) VALUES
-	("Pepito", "Perez", "pepito@gmail.com", 28),
-	("Rosita", "Juárez", "rosita@gmail.com", 19),
-	("Macario", "Guzman", "macario@gmail.com", 55);
+  ("Pepito", "Perez", "pepito@gmail.com", 28),
+  ("Rosita", "Juárez", "rosita@gmail.com", 19),
+  ("Macario", "Guzman", "macario@gmail.com", 55);
 
 SELECT * FROM usuarios;
 

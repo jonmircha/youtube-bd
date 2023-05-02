@@ -6,4 +6,10 @@ En este repositorio encontrarás los recursos de mis cursos de [Bases de Datos](
 
 1. [Curso Diseño de Bases de Datos](https://www.youtube.com/watch?v=HXE169-n5pM).
 1. [Curso Modelado de Bases de Datos](https://www.youtube.com/watch?v=aFgHVE_Y_YU).
-1. [Curso _SQL_](#).
+1. [Curso _SQL_](https://www.youtube.com/watch?v=UAuZvxPTi58).
+
+### Recursos Teóricos
+
+- [Mapa mental Bases de Datos](https://www.figma.com/file/Af7NoQC3xp7cu6unD7OqQl/Bases-de-Datos).
+- [Artículo sobre Bases de Datos](https://jonmircha.com/bd).
+- [Artículo sobre Bases de _SQL_](https://jonmircha.com/sql).
