@@ -17,7 +17,7 @@
 - foto
 - canonico
 
-### armduras **(ED|EC)**
+### armaduras **(ED|EC)**
 
 - armadura_id **(PK)**
 - armadura

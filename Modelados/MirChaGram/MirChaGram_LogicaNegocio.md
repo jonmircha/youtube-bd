@@ -47,7 +47,7 @@
 - follow_user **(FK)**
 - following_user **(FK)**
 
-### counties **(EC)**
+### countries **(EC)**
 
 - country_id **(PK)**
 - country_name

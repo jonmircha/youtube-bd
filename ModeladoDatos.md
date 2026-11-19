@@ -5,7 +5,7 @@
 1. Identificar las entidades del sistema.
 1. Identificar los atributos de las entidades.
 1. Identificar las llaves primarias y foráneas.
-1. Asignar una nomenclatura adeacuada a las entidades y sus atributos.
+1. Asignar una nomenclatura adecuada a las entidades y sus atributos.
 1. Identificar las entidades pivote del sistema.
 1. Identificar los catálogos del sistema.
 1. Identificar los tipos de relaciones del sistema.
